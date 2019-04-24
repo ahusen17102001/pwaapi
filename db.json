@@ -1,0 +1,25 @@
+{
+"products": [
+
+    {"id":1,"name":"Nighthawk, common","category":"Turquoise"},
+    {"id":2,"name":"Giant anteater","category":"Blue"},
+    {"id":3,"name":"Civet, small-toothed palm","category":"Aquamarine"},
+    {"id":4,"name":"Parakeet, rose-ringed","category":"Red"},
+    {"id":5,"name":"Stilt, black-winged","category":"Red"},
+    {"id":6,"name":"King cormorant","category":"Turquoise"},
+    {"id":7,"name":"Coke's hartebeest","category":"Goldenrod"},
+    {"id":8,"name":"Black-faced kangaroo","category":"Turquoise"},
+    {"id":9,"name":"Ringtail cat","category":"Indigo"},
+    {"id":10,"name":"Asian openbill","category":"Teal"},
+    {"id":11,"name":"African buffalo","category":"Puce"},
+    {"id":12,"name":"Plover, three-banded","category":"Orange"},
+    {"id":13,"name":"Gecko, ring-tailed","category":"Red"},
+    {"id":14,"name":"Violet-crested turaco","category":"Blue"},
+    {"id":15,"name":"Dark-winged trumpeter","category":"Khaki"},
+    {"id":16,"name":"Stork, openbill","category":"Violet"},
+    {"id":17,"name":"Python (unidentified)","category":"Violet"},
+    {"id":18,"name":"Sacred ibis","category":"Blue"},
+    {"id":19,"name":"Red brocket","category":"Crimson"},
+    {"id":20,"name":"Marmot, hoary","category":"Puce"}
+  ]
+}
